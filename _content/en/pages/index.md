@@ -6,6 +6,8 @@ uuid: 528e39c7b11e
 localizationKey: 9d547846d8d9
 status: published
 name: Home
+eleventyNavigation:
+  order: 0
 ---
 {% section type="cover", vars={"minHeight":"300px","noPadding":true,"gap":""}, blocks=[{"alt":"","title":"","width":100,"aspectRatio":null,"loading":"eager","rawAttrs":"","type":"image","src":"/_images/logo-icon.webp"}], advanced={} %}
 
