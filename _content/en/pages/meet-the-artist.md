@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Meet Agnes Aasmaa
 
-{% image src="/_images/20250401_161107.webp", aspectRatio="1.33", width="300" %}
+{% image src="/_images/20250401_161107.webp", aspectRatio="1.78", width="300" %}
 
 I'm a self-taught artist from Estonia, currently creating in Brussels. Using coffee grounds as my primary medium, I craft textured portraits that transform an everyday material into expressive works of art. My practice explores the beauty of impermanence and the poetry found in discarded things. Each piece is a meditation on sustainability, creativity, and seeing potential where others see waste. Coffee fuels both my mornings and my art.
 
