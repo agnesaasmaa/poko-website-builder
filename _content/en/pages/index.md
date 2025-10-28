@@ -8,7 +8,7 @@ name: Home
 eleventyNavigation:
   order: 0
 ---
-{% section type="cover", vars={"minHeight":"","noPadding":false,"gap":""}, blocks=[{"alt":"","title":"","width":100,"aspectRatio":null,"loading":"eager","rawAttrs":"","type":"image","src":"/_images/logo-icon.webp"}], advanced={} %}
+{% section type="cover", vars={"minHeight":"300px","noPadding":false,"gap":""}, blocks=[{"alt":"","title":"","width":100,"aspectRatio":null,"loading":"eager","rawAttrs":"","type":"image","src":"/_images/logo-icon.webp"}], advanced=null %}
 
 # Hello! Welcome to my virtual gallery.
 
