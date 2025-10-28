@@ -20,10 +20,12 @@ typeScales:
     maxTypeScale: 1.25
     advanced: null
 colors:
-  - name: 'white - #dee0e0'
+  - name: 'White - #dee0e0'
     value: '#dee0e0'
   - name: 'Black - #020301'
     value: '#020301'
+  - name: 'Reddish - #da5a59'
+    value: '#da5a59'
 palettes:
   - name: A - Main
     text: 'Black - #020301'
