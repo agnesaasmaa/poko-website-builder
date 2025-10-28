@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 0
 vars: {}
 ---
-{% image src="/_images/logo-icon.webp", width="150" %}
+{% image src="/_images/logo-icon.webp", width="150", loading="eager" %}
 
 From coffee to art.
 
