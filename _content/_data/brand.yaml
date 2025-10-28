@@ -20,8 +20,8 @@ typeScales:
     maxTypeScale: 1.25
     advanced: null
 colors:
-  - name: White
-    value: '#e6e6e6'
+  - name: 'white - #dee0e0'
+    value: '#dee0e0'
 styleContexts:
   - name: main
     value: ctx
