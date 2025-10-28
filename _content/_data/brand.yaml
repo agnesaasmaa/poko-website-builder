@@ -18,6 +18,7 @@ typeScales:
     maxFontSize: 20
     minTypeScale: 1.2
     maxTypeScale: 1.25
+    advanced: null
 colors:
   - name: White
     value: '#e6e6e6'
