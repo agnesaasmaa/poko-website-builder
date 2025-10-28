@@ -12,4 +12,4 @@ eleventyNavigation:
 
 # Hello! Welcome to my virtual gallery.
 
-{% section type="grid-fluid", vars={"columns":3,"gap":"1em"}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image"}], advanced={} %}
+{% section type="grid-fluid", vars={"columns":3,"gap":"1em"}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20250401_141030.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20251009_134559.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20250804_133542.webp"}], advanced={} %}
