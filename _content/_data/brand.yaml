@@ -24,6 +24,24 @@ colors:
     value: '#dee0e0'
   - name: 'Black - #020301'
     value: '#020301'
+palettes:
+  - name: A - Main
+    text: 'Black - #020301'
+    bg: 'white - #dee0e0'
+    border: ''
+    outline: ''
+    text-decoration: ''
+    text--marker: ''
+    text-emphasis: ''
+    text--selection: ''
+    bg--selection: ''
+    shadow: ''
+    caret: ''
+    column-rule: ''
+    fill: ''
+    stroke: ''
+    outline--focus: ''
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
