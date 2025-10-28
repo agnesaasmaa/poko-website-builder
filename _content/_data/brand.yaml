@@ -7,11 +7,11 @@ widthsContexts:
 fontStacksContexts:
   - name: main
     body:
-      native: humanist
+      native: monospace-slab-serif
     heading:
-      native: humanist
+      native: monospace-slab-serif
     code:
-      native: humanist
+      native: monospace-code
 typeScales:
   - name: main
     minFontSize: 18
