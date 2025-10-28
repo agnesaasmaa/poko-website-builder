@@ -18,6 +18,9 @@ typeScales:
     maxFontSize: 20
     minTypeScale: 1.2
     maxTypeScale: 1.25
+colors:
+  - name: White
+    value: '#e6e6e6'
 styleContexts:
   - name: main
     value: ctx
