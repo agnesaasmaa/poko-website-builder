@@ -1,0 +1,11 @@
+siteName: Art by Agnes Aasmaa
+productionUrl: agnesita.pages.dev
+languages:
+  - code: EN
+    name: English
+    customUrlPrefix: null
+    status: published
+    isCmsDefault: true
+    isWebsiteDefault: true
+collections:
+  - articles
