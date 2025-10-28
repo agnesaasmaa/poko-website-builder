@@ -22,6 +22,8 @@ typeScales:
 colors:
   - name: 'white - #dee0e0'
     value: '#dee0e0'
+  - name: 'Black - #020301'
+    value: '#020301'
 styleContexts:
   - name: main
     value: ctx
