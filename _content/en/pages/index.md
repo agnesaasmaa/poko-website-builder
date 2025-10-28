@@ -8,10 +8,11 @@ status: published
 name: Work
 eleventyNavigation:
   order: 0
-vars: {}
 ---
 {% image src="/_images/logo-icon.webp", width="150", loading="eager" %}
 
 From coffee to art.
 
 {% section type="grid-fluid", vars={"columns":3,"gap":"1em"}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20250401_141030-1.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20251009_134559.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/20250804_133542.webp"}], advanced={} %}
+
+{% image src="https://ar.inspiredpencil.com/pictures-2023/instagram-logo-icon-png", aspectRatio="50", loading="eager", wrapper="https://www.instagram.com/aa.madeit/" %}
