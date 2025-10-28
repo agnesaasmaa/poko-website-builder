@@ -8,4 +8,6 @@ name: Home
 eleventyNavigation:
   order: 0
 ---
-Hello! Welcome to my gallery :)
+# Hello! Welcome to my virtual gallery.
+
+{% section type="grid-fluid", vars={"columns":3,"gap":"1em"}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"https://www.instagram.com/p/DOWSpx1DNlo/?img_index=1"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"https://www.instagram.com/p/DPmICBHDM6e/?img_index=1"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image"}], advanced=null %}
