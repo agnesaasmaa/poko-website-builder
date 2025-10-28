@@ -9,7 +9,7 @@ name: Home
 eleventyNavigation:
   order: 0
 ---
-{% section type="cover", vars={"minHeight":"300px","noPadding":true,"gap":""}, blocks=[{"alt":"","title":"","width":100,"aspectRatio":null,"loading":"eager","rawAttrs":"","type":"image","src":"/_images/logo-icon.webp"}], advanced={} %}
+{% image src="/_images/logo-icon.webp", width="300" %}
 
 From coffee to art.
 
