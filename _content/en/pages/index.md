@@ -5,9 +5,10 @@ createdAt: 2025-10-28T09:37:00.000Z
 uuid: 528e39c7b11e
 localizationKey: 9d547846d8d9
 status: published
-name: Home
+name: Work
 eleventyNavigation:
   order: 0
+vars: {}
 ---
 {% image src="/_images/logo-icon.webp", width="150" %}
 
